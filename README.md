@@ -56,18 +56,6 @@ Computer Science / Software Engineering
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 *Traditional Java web application using JSP/Servlet for e-commerce functionality*
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CODEeminelike&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODEeminelike&layout=compact)
-
-</div>
-
----
 
 ## 🌟 Currently Learning & Exploring
 
@@ -90,8 +78,8 @@ Computer Science / Software Engineering
 
 ## 📫 Connect With Me
 
-- **📧 Email:** [Your Email]
-- **💼 LinkedIn:** [Your LinkedIn Profile]
+- **📧 Email:** [monnkkey2004@gmail.com]
+- **💼 LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/t%C3%B9ng-th%C3%A2n-0746601a4/)]
 - **🐙 GitHub:** [https://github.com/CODEeminelike](https://github.com/CODEeminelike)
 
 ---
@@ -101,3 +89,4 @@ Computer Science / Software Engineering
 > "Continuous learning and building solutions that make a difference."
 
 *Always eager to learn new technologies and collaborate on interesting projects!*
+
