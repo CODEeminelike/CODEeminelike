@@ -36,7 +36,7 @@ Computer Science / Software Engineering
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 *Full-stack cinema management platform with booking system and admin dashboard*
 
-### **🔗 RESTful API Capstone** - [View Repository](https://github.com/CODEeminelike/APIcapstone)
+### **🔗 ImageHub** - [View Repository](https://github.com/CODEeminelike/APIcapstone)
 ![Express.js](https://img.shields.io/badge/Express.js-green?style=for-the-badge&logo=express)
 ![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=nodedotjs)
 *Robust backend API with authentication, CRUD operations, and database integration*
@@ -51,7 +51,7 @@ Computer Science / Software Engineering
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 *Modern UI component library and design system built with Tailwind CSS*
 
-### **🏪 E-commerce Platform** - [View Repository](https://github.com/CODEeminelike/learning-oop)
+### **🏪 eLearning Web System Project** - [View Repository](https://github.com/CODEeminelike/learning-oop)
 ![JSP](https://img.shields.io/badge/JSP-Servlet-orange?style=for-the-badge&logo=java)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 *Traditional Java web application using JSP/Servlet for e-commerce functionality*
@@ -89,6 +89,7 @@ Computer Science / Software Engineering
 > "Continuous learning and building solutions that make a difference."
 
 *Always eager to learn new technologies and collaborate on interesting projects!*
+
 
 
 
