@@ -79,8 +79,8 @@ Computer Science / Software Engineering
 ## 📫 Connect With Me
 
 - **📧 Email:** [monnkkey2004@gmail.com]
-- **💼 LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/t%C3%B9ng-th%C3%A2n-0746601a4/)]
-- **🐙 GitHub:** [https://github.com/CODEeminelike](https://github.com/CODEeminelike)
+- **📘 Facebook:** [https://www.facebook.com/tung.than.ezlove]
+- **💻 GitHub:** [https://github.com/CODEeminelike](https://github.com/CODEeminelike)
 
 ---
 
@@ -89,6 +89,7 @@ Computer Science / Software Engineering
 > "Continuous learning and building solutions that make a difference."
 
 *Always eager to learn new technologies and collaborate on interesting projects!*
+
 
 
 
