@@ -16,7 +16,7 @@ Computer Science / Software Engineering
 ## 💻 Technical Skills
 
 ### **Programming Languages & Frameworks**
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,java,typescript,javascript,html,css)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,java,typescript,javascript,html,css,tailwind)
 
 ### **Databases**
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
@@ -29,15 +29,32 @@ Computer Science / Software Engineering
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Impressive Repositories
 
-### **Personal Portfolio Website**
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-- **Features:** Responsive design, modern UI/UX
+### **🎬 Cinema Management System** - [View Repository](https://github.com/CODEeminelike/cinema-management-system)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+*Full-stack cinema management platform with booking system and admin dashboard*
 
-### **Academic Projects**
-- Various university projects using Java, React, and Node.js
-- Database management systems with MySQL
+### **🔗 RESTful API Capstone** - [View Repository](https://github.com/CODEeminelike/APIcapstone)
+![Express.js](https://img.shields.io/badge/Express.js-green?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=nodedotjs)
+*Robust backend API with authentication, CRUD operations, and database integration*
+
+### **🎥 Movie Discovery App** - [View Repository](https://github.com/CODEeminelike/MovieCapstone)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+*Interactive movie browsing application with search and filtering features*
+
+### **💎 Solid Design System** - [View Repository](https://github.com/CODEeminelike/Solid)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+*Modern UI component library and design system built with Tailwind CSS*
+
+### **🏪 E-commerce Platform** - [View Repository](https://github.com/CODEeminelike/de.git)
+![JSP](https://img.shields.io/badge/JSP-Servlet-orange?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+*Traditional Java web application using JSP/Servlet for e-commerce functionality*
 
 ---
 
@@ -69,9 +86,18 @@ Computer Science / Software Engineering
 ### **🛠️ Supporting Technologies**
 ![Learning Tech](https://skillicons.dev/icons?i=graphql,redis,docker,kubernetes,aws)
 
+---
+
+## 📫 Connect With Me
+
+- **📧 Email:** [Your Email]
+- **💼 LinkedIn:** [Your LinkedIn Profile]
+- **🐙 GitHub:** [https://github.com/CODEeminelike](https://github.com/CODEeminelike)
+
+---
+
 ## 💡 Philosophy
 
 > "Continuous learning and building solutions that make a difference."
 
 *Always eager to learn new technologies and collaborate on interesting projects!*
-
