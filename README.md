@@ -1,7 +1,7 @@
 <h1>CODEeminelike</h1>
-<p>🎓 Computer Science Student | Full-stack Developer | Passionate about creating innovative solutions</p>
+<p>🎓 IT Student | Full-stack Developer | Passionate about creating innovative solutions</p>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/CODEeminelike/CODEeminelike)](https://github.com/CODEeminelike/CODEeminelike/stargazers)
+
 
 <br/>
 
@@ -89,4 +89,5 @@ Computer Science / Software Engineering
 > "Continuous learning and building solutions that make a difference."
 
 *Always eager to learn new technologies and collaborate on interesting projects!*
+
 
