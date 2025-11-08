@@ -52,22 +52,26 @@ Computer Science / Software Engineering
 
 ---
 
-## 🌟 Currently Learning
+## 🌟 Currently Learning & Exploring
 
-![Learning](https://skillicons.dev/icons?i=python,aws,kubernetes,redis)
+### **🏗️ Architecture Patterns**
+- **Microservices Architecture** - Building scalable, distributed systems
+- **GraphQL with Federation** - Implementing federated GraphQL schemas
+- **CQRS & Event Sourcing** - Command Query Responsibility Segregation with event-driven architecture
+- **WebSockets** - Real-time bidirectional communication
 
----
+### **⚡ Next.js Advanced Features**
+- **Server Actions & Mutations** - Direct server mutations from client components
+- **Incremental Static Regeneration (ISR)** - On-demand revalidation for dynamic content
+- **Parallel Routes & Streaming** - Concurrent route rendering and UI streaming
+- **Turborepo** - High-performance build system for monorepo management
 
-## 📫 Connect With Me
-
-- **📧 Email:** [Your Email]
-- **💼 LinkedIn:** [Your LinkedIn Profile]
-- **🐙 GitHub:** [https://github.com/CODEeminelike](https://github.com/CODEeminelike)
-
----
+### **🛠️ Supporting Technologies**
+![Learning Tech](https://skillicons.dev/icons?i=graphql,redis,docker,kubernetes,aws)
 
 ## 💡 Philosophy
 
 > "Continuous learning and building solutions that make a difference."
 
 *Always eager to learn new technologies and collaborate on interesting projects!*
+
